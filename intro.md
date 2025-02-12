@@ -1,0 +1,1 @@
+python -c "from utils.data_preprocessor import preprocess_sector_data; preprocess_sector_data(test_mode=False)"
